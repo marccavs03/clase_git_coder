@@ -5,4 +5,5 @@ def resta(a, b):
     return a - b
 
 class Persona:
-    pass
+    pass 
+a 
